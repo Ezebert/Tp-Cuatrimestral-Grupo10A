@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fidee\\source\\repos\\Ezebert\\Tp-Cuatrimestral-Grupo10A\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\fidee\\Desktop\\PROYECTOS\\Ecommerce\\Tp-Cuatrimestral-Grupo10A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E6A119-F5A1-4516-9082-3E69B3E1D6EF}|Ecommerce\\Webform.csproj|c:\\users\\fidee\\desktop\\proyectos\\ecommerce\\tp-cuatrimestral-grupo10a\\ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{69E6A119-F5A1-4516-9082-3E69B3E1D6EF}|Ecommerce\\Webform.csproj|solutionrelative:ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\fidee\\Desktop\\PROYECTOS\\Ecommerce\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx",
+              "RelativeDocumentMoniker": "Ecommerce\\Login.aspx",
+              "ToolTip": "C:\\Users\\fidee\\Desktop\\PROYECTOS\\Ecommerce\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx",
+              "RelativeToolTip": "Ecommerce\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T04:03:12.952Z",
+              "EditorCaption": ""
             }
           ]
         }
