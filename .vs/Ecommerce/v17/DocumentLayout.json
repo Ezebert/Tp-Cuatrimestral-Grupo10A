@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fidee\\Desktop\\PROYECTOS\\Ecommerce\\Tp-Cuatrimestral-Grupo10A\\",
+  "WorkspaceRootPath": "C:\\Users\\Fidel\\Desktop\\PROYECTOS\\Ezebert\\Tp-Cuatrimestral-Grupo10A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69E6A119-F5A1-4516-9082-3E69B3E1D6EF}|Ecommerce\\Webform.csproj|c:\\users\\fidee\\desktop\\proyectos\\ecommerce\\tp-cuatrimestral-grupo10a\\ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{69E6A119-F5A1-4516-9082-3E69B3E1D6EF}|Ecommerce\\Webform.csproj|c:\\users\\fidel\\desktop\\proyectos\\ezebert\\tp-cuatrimestral-grupo10a\\ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{69E6A119-F5A1-4516-9082-3E69B3E1D6EF}|Ecommerce\\Webform.csproj|solutionrelative:ecommerce\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E6A119-F5A1-4516-9082-3E69B3E1D6EF}|Ecommerce\\Webform.csproj|c:\\users\\fidel\\desktop\\proyectos\\ezebert\\tp-cuatrimestral-grupo10a\\ecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E6A119-F5A1-4516-9082-3E69B3E1D6EF}|Ecommerce\\Webform.csproj|solutionrelative:ecommerce\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,11 +26,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Fidel\\Desktop\\PROYECTOS\\Ezebert\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Fidel\\Desktop\\PROYECTOS\\Ezebert\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx.cs",
+              "RelativeToolTip": "Ecommerce\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:02:22.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\fidee\\Desktop\\PROYECTOS\\Ecommerce\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Fidel\\Desktop\\PROYECTOS\\Ezebert\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx",
               "RelativeDocumentMoniker": "Ecommerce\\Login.aspx",
-              "ToolTip": "C:\\Users\\fidee\\Desktop\\PROYECTOS\\Ecommerce\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx",
+              "ToolTip": "C:\\Users\\Fidel\\Desktop\\PROYECTOS\\Ezebert\\Tp-Cuatrimestral-Grupo10A\\Ecommerce\\Login.aspx",
               "RelativeToolTip": "Ecommerce\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
